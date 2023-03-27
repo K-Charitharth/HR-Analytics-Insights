@@ -1,4 +1,4 @@
-# HR-Sales-Insights
+# HR-Analytics-Insights
 Dynamic Power BI dashboard which gives insights about the attendance of the employees.
 
 This is a mini project which helped me in understanding the creation of visualizations dashboard using Microsoft Power BI.
